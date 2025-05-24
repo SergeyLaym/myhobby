@@ -34,15 +34,15 @@ body {
     padding: 10px;
   }
   
-  button {
+  .tap {
     padding: 10px 20px;
-    background-color: #0077cc;
-    color: white;
+    background-color: #ff0000;
+    color: rgb(255, 0, 0);
     border: none;
     cursor: pointer;
   }
   
-  button:hover {
-    background-color: #005fa3;
+  .tap:hover {
+    color: #ffffff;
   }
   
