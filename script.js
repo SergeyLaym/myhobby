@@ -1,5 +1,5 @@
 function changeBackground() {
-    document.body.style.backgroundColor = "#e0f7fa";
+    document.body.style.backgroundColor = "#000000";
     alert("Цвет фона изменён!");
   }
   
